@@ -1,0 +1,3 @@
+Balica,Adrian,Galati,CTI,21,Facultatea de Matematica si Informatica
+Birdaha,Cristina,Bucuresti,ETTI,20,Politehnica
+Gigi,Dada,ploiesti,ETII,20,Politehnica
